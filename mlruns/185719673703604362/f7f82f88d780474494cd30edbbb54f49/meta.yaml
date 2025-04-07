@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/WORK/Projects/ANN-MLFlow/mlruns/185719673703604362/f7f82f88d780474494cd30edbbb54f49/artifacts
+end_time: 1744005431199
+entry_point_name: ''
+experiment_id: '185719673703604362'
+lifecycle_stage: active
+run_id: f7f82f88d780474494cd30edbbb54f49
+run_name: capable-bug-340
+run_uuid: f7f82f88d780474494cd30edbbb54f49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744005418405
+status: 3
+tags: []
+user_id: Chris

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/WORK/Projects/ANN-MLFlow/mlruns/185719673703604362/0ea1181eb06144d4b08ee3abee79615b/artifacts
+end_time: 1744005418374
+entry_point_name: ''
+experiment_id: '185719673703604362'
+lifecycle_stage: active
+run_id: 0ea1181eb06144d4b08ee3abee79615b
+run_name: receptive-owl-115
+run_uuid: 0ea1181eb06144d4b08ee3abee79615b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744005394640
+status: 3
+tags: []
+user_id: Chris

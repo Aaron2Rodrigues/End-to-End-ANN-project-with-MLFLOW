@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/WORK/Projects/ANN-MLFlow/mlruns/185719673703604362/7ea414de97e14e1d9d9aef7d31a9730d/artifacts
+end_time: 1739811619519
+entry_point_name: ''
+experiment_id: '185719673703604362'
+lifecycle_stage: active
+run_id: 7ea414de97e14e1d9d9aef7d31a9730d
+run_name: rogue-finch-911
+run_uuid: 7ea414de97e14e1d9d9aef7d31a9730d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739811608259
+status: 3
+tags: []
+user_id: Chris

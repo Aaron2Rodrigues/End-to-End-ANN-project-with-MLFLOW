@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/WORK/Projects/ANN-MLFlow/mlruns/185719673703604362/a037322dc5634637aeeec53448475e0c/artifacts
+end_time: 1739810601625
+entry_point_name: ''
+experiment_id: '185719673703604362'
+lifecycle_stage: active
+run_id: a037322dc5634637aeeec53448475e0c
+run_name: merciful-mule-134
+run_uuid: a037322dc5634637aeeec53448475e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739810580768
+status: 3
+tags: []
+user_id: Chris

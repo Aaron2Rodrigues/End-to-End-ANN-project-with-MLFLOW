@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/WORK/Projects/ANN-MLFlow/mlruns/185719673703604362/1a7e761aaa4e4c46bd24ebc77e5d1a61/artifacts
+end_time: 1739811629890
+entry_point_name: ''
+experiment_id: '185719673703604362'
+lifecycle_stage: active
+run_id: 1a7e761aaa4e4c46bd24ebc77e5d1a61
+run_name: serious-whale-830
+run_uuid: 1a7e761aaa4e4c46bd24ebc77e5d1a61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739811619543
+status: 3
+tags: []
+user_id: Chris

@@ -1,0 +1,26 @@
+artifact_path: ANN-model
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.9.21
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.18.0
+    model_type: keras
+    save_format: tf
+is_signature_from_type_hint: false
+mlflow_version: 2.20.2
+model_size_bytes: 28761
+model_uuid: 9129cd78f8da45b4ab82a99b74f60cf7
+run_id: c0daca3af02e4e98a705a550891673bd
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 11]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-02-17 17:00:29.898921'
