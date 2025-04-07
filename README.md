@@ -1,6 +1,8 @@
 # 🍷 Wine Quality Predictor with ANN + Hyperopt + MLflow
 
 A deep learning project to predict the quality of white wine using an Artificial Neural Network. It includes hyperparameter optimization using Hyperopt and experiment tracking using MLflow.
+
+
 ![Project Architecture](assets/diagram.png)
 
 
